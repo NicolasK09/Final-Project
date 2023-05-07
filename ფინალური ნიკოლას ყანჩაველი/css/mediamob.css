@@ -1,0 +1,225 @@
+@media (max-width: 480px) {
+
+    header {
+        padding-right: 200px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .fa-bars {
+        display: block;
+    }
+
+.div_eartart{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+    .ewaf {
+        font-size: 1.5rem;
+        margin-left: 30px;
+        margin-left: 30px;
+    }
+
+    .pot_sec1 {
+        font-size: .7rem;
+    }
+
+    .shop_sec1 {
+        width: 60%;
+    }
+
+    .div_4cards {
+        width: 100%;
+
+    }
+
+    .div_pots {
+        align-items: center;
+    }
+
+
+
+
+    .div_pots {
+        width: 100%;
+    }
+
+    .sec2_title {
+        margin-bottom: 30px;
+        /* border: 5px solid red; */
+    }
+
+    .gallery_sec2 {
+        gap: 20px;
+        width: 100%;
+    }
+
+    .sec2_2img {
+        display: none;
+    }
+
+    .sec2_3img {
+        gap: 20px;
+        flex-direction: column;
+
+    }
+
+    .mg3,
+    .mg5 {
+        width: 100%;
+}
+
+    .mobi_cont_little {
+        display: block;
+    }
+
+    .contact_main_photo3 {
+        display: none;
+    }
+
+
+    .view_more_sec2 {
+        background: #B53B1B;
+        border-radius: 10px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 19px;
+        font-family: 'Inter', sans-serif;
+        color: #FFFFFF;
+        height: 50px;
+        width: 150px;
+        margin: 32px 168px 48px 168px;
+        align-items: center;
+    }
+
+
+
+
+
+    .photo_price_sec3 {
+        width: 90%;
+    }
+
+
+
+    .div_community {
+        flex-direction: column;
+        gap: 20px;
+        /* width: 100%; */
+    }
+
+
+    .div_asp {
+        width: 100%;
+    }
+
+
+    footer {
+        align-items: center;
+        padding: 32px 50px 58px 50px;
+        gap: 30px;
+    }
+
+
+
+    /* Artwork */
+
+
+    .art_title {
+        font-size: 1.5rem;
+    }
+
+    .art_butt {
+        width: 40%;
+    }
+
+    .div_shop_by {
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+    .art_all_cat {
+        font-size: 2rem;
+    }
+
+
+    .div_half_eight {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .div_four_pots {
+        width: 100%;
+    }
+
+    .and8 {
+        display: none;
+    }
+
+
+    /* Contact */
+
+
+
+
+    .div_cont_em_add {
+        flex-direction: column;
+        width: 100%;
+        gap: 30px;
+    }
+
+    .iframe {
+        width: 100%;
+    }
+
+
+    footer {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+
+
+    .div_form_contact{
+        width: 90%;
+        
+    }
+
+    .div_sub_cont{
+        width: 90%;
+
+    }
+
+    .getintouch{
+        font-size: 2rem;
+    }
+
+
+
+    .menu {
+        width: 70%;
+        height: 200px;
+        background-color: #D5906E85;
+        position: fixed;
+        top: 120px;
+        left: -101%;
+        flex-direction: column;
+        gap: 0;
+        justify-content: space-around;
+        align-items: center;
+        transition: 1s linear;
+
+    }
+
+    .diss_app {
+        left: 0;
+    }
+
+
+
+
+}
